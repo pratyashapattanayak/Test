@@ -1,1 +1,4 @@
 pool: ubuntu-latest
+variables:
+  - name: environment
+    value: 'production'
