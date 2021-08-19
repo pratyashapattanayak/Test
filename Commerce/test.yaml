@@ -1,1 +1,3 @@
 pool: ubuntu-latest
+variables:
+
