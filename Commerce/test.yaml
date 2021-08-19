@@ -1,3 +1,6 @@
 pool: ubuntu-latest
 #test
 #tesst1
+variables:
+  - name: environment
+    value: 'production'
